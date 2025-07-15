@@ -1,5 +1,13 @@
 # Calculadora Flutter
 
+**Aplicación:**
+<img width="528" height="953" alt="image" src="https://github.com/user-attachments/assets/d529bd53-81f9-480f-b641-20e5964e9e89" />
+<img width="530" height="941" alt="image" src="https://github.com/user-attachments/assets/c8bf0087-5cac-490d-9c59-db828ca9726c" />
+
+**Uso de Scaffold:**
+<img width="975" height="305" alt="image" src="https://github.com/user-attachments/assets/d4bb275f-b7bb-441f-9e58-9d7256151e40" />
+
+
 Esta es una aplicación de calculadora moderna desarrollada con Flutter. Utiliza la estructura Scaffold y explora sus propiedades para ofrecer una experiencia visual atractiva y funcional.
 
 ## Características
