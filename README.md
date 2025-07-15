@@ -1,16 +1,50 @@
-# proyectos
+# Calculadora Flutter
 
-A new Flutter project.
+Esta es una aplicación de calculadora moderna desarrollada con Flutter. Utiliza la estructura Scaffold y explora sus propiedades para ofrecer una experiencia visual atractiva y funcional.
 
-## Getting Started
+## Características
+- Interfaz moderna con colores neutros
+- Animaciones suaves en los botones
+- Iconos mejorados y actualizados
+- Funcionalidad básica de calculadora (suma, resta, multiplicación, división)
+- Responsive y adaptable a diferentes tamaños de pantalla
 
-This project is a starting point for a Flutter application.
+## Instalación
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repo.git
+   cd tu-repo
+   ```
+2. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+3. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+## Actualización del proyecto
+Si realizas cambios y deseas actualizar tu repositorio en GitHub:
+1. Agrega los cambios:
+   ```bash
+   git add .
+   ```
+2. Haz commit de los cambios:
+   ```bash
+   git commit -m "Actualización de la calculadora Flutter"
+   ```
+3. Sube los cambios a GitHub:
+   ```bash
+   git push
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos
+- Flutter SDK instalado
+- Un emulador o dispositivo físico para pruebas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Estructura principal
+- `lib/main.dart`: Código fuente principal de la aplicación
+
+## Licencia
+Este proyecto está bajo la licencia MIT.
